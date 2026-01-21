@@ -11,6 +11,6 @@ This application uses AI to detect vehicles in images, identify vehicle types & 
 ## Setup
 
 ```python
-git clone https://github.com/Abdulraqib20/vehicle-detection-and-color-analyzer.git
+git clone https://github.com/Kabirat000/vehicle-color-detection-system.git
 pip install -r requirements.txt
 ```
